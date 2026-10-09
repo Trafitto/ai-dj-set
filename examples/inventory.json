@@ -1,0 +1,12 @@
+[
+ {"file": "aurora-boulevard.mp3",  "artist": "Night Ferry",     "title": "Aurora Boulevard",  "genre": "Rock",  "bpm": 128, "duration": 214.0, "energy": 7},
+ {"file": "hammer-and-tongs.mp3",  "artist": "The Brass Hounds","title": "Hammer and Tongs",  "genre": "Rock",  "bpm": 132, "duration": 198.0, "energy": 8},
+ {"file": "long-way-down.mp3",     "artist": "Night Ferry",     "title": "Long Way Down",     "genre": "Rock",  "bpm": 124, "duration": 243.0, "energy": 6},
+ {"file": "paper-lanterns.mp3",    "artist": "Marisol Vega",    "title": "Paper Lanterns",    "genre": "Disco", "bpm": 118, "duration": 231.0, "energy": 7},
+ {"file": "midnight-cassette.mp3", "artist": "Marisol Vega",    "title": "Midnight Cassette", "genre": "Disco", "bpm": 120, "duration": 205.0, "energy": 8},
+ {"file": "gold-telephone.mp3",    "artist": "The Velvet Hour", "title": "Gold Telephone",    "genre": "Disco", "bpm": 116, "duration": 222.0, "energy": 7},
+ {"file": "concrete-garden.mp3",   "artist": "The Brass Hounds","title": "Concrete Garden",   "genre": "Rock",  "bpm": 140, "duration": 176.0, "energy": 9},
+ {"file": "ferris-wheel.mp3",      "artist": "The Velvet Hour", "title": "Ferris Wheel",      "genre": "Disco", "bpm": 122, "duration": 260.0, "energy": 6},
+ {"file": "slow-tide.mp3",         "artist": "Ines Almeida",    "title": "Slow Tide",         "genre": "Slow",  "bpm": 72,  "duration": 189.0, "energy": 3},
+ {"file": "second-sunrise.mp3",    "artist": "Ines Almeida",    "title": "Second Sunrise",    "genre": "Slow",  "bpm": 68,  "duration": 201.0, "energy": 3}
+]

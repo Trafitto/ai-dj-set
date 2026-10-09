@@ -1,0 +1,11 @@
+[
+  {
+    "file": "long-way-down.mp3",
+    "cue_in": 0,
+    "jump_from": 95,
+    "jump_to": 185,
+    "cue_out": 210,
+    "bpm": 124,
+    "fade": 5
+  }
+]

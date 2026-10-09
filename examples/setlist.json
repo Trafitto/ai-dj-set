@@ -1,0 +1,23 @@
+{
+  "root_cut": "/home/you/Music/Set-cut",
+  "root_full": "/home/you/Music/Set",
+  "playlists": {
+    "MY SET": "queue",
+    "MY SET - SPARES": "spares"
+  },
+  "relocate": [],
+  "queue": [
+    {"file": "aurora-boulevard.mp3",  "cue_in": 0, "cue_out": 150, "fade": 8, "role": "short",     "genre": "Rock",  "why": "opens the floor, everyone knows it"},
+    {"file": "hammer-and-tongs.mp3",  "cue_in": 0, "cue_out": 140, "fade": 5, "role": "short",     "genre": "Rock",  "why": "4 BPM up, blend straight in"},
+    {"file": "long-way-down.mp3",     "cue_in": 0, "cue_out": 120, "fade": 5, "role": "spliced",   "genre": "Rock",  "why": "solo removed in the audio - see edits.json"},
+    {"file": "paper-lanterns.mp3",    "cue_in": 0, "cue_out": 145, "fade": 8, "role": "short",     "genre": "Disco", "why": "genre change after a run of three"},
+    {"file": "midnight-cassette.mp3", "cue_in": 0, "cue_out": 150, "fade": 8, "role": "singalong", "genre": "Disco", "why": "ends on the chorus"},
+    {"file": "gold-telephone.mp3",    "cue_in": 0, "cue_out": 195, "fade": 2, "role": "short",     "genre": "Disco", "why": "closer, lands on the end time"}
+  ],
+  "spares": [
+    {"file": "concrete-garden.mp3"},
+    {"file": "ferris-wheel.mp3"},
+    {"file": "slow-tide.mp3"},
+    {"file": "second-sunrise.mp3"}
+  ]
+}

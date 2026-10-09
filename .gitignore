@@ -1,0 +1,39 @@
+# Your own set belongs to you, not to the repo.
+#
+# inventory.json and setlist.json list the filenames of your music, which is
+# both personal and not much use to anyone else. Generate them in the repo root
+# and they stay out of git; the committed shape of each file is in examples/.
+/inventory.json
+/setlist.json
+/edits.json
+/*.local.json
+
+# Mixxx libraries and the backups you should be taking before every write.
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.db
+
+# Audio: never commit the music itself.
+*.mp3
+*.m4a
+*.flac
+*.wav
+*.ogg
+*.aiff
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and OS noise
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# The examples are documentation — keep them whatever the rules above say.
+!examples/
+!examples/*.json
